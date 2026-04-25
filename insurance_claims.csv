@@ -1,0 +1,5 @@
+age,sex,bmi,fraud
+25,male,22.5,0
+30,female,26.1,1
+40,male,28.3,0
+35,female,30.0,1
